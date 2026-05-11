@@ -38,5 +38,12 @@ founders and sales teams manage outreach efficiently.
 ## 💡 Why I Built This
 Outbound sales teams waste hours in manual tracking.
 This system automates status visibility and response 
+
+## ⚡ Automation Workflow
+Built a Make.com automation connecting Google Sheets 
+to Gmail — triggers email notification when new lead 
+is added to the tracker.
 rate calculation — giving founders real-time clarity 
 on their pipeline.
+
+<img width="1904" height="897" alt="image" src="https://github.com/user-attachments/assets/36b63a8b-4d97-4cb6-8b9a-361df5bbca03" />
