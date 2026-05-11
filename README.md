@@ -1,6 +1,7 @@
 # Lead-tracker-automation
 Outbound Lead Tracking System with Dashboard | Google Sheets + Automation
-<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/ea0d7b74-fba2-4cf3-a060-edce646590b7" />
+<img width="1896" height="852" alt="image" src="https://github.com/user-attachments/assets/e00fcff9-e820-437b-b683-352a20263546" />
+
 # 📊 Lead Tracker & Outreach Automation System
 
 ## 🔍 What I Built
